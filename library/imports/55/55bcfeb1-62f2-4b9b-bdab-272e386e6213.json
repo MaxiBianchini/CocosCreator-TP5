@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_demon_run_anim_f3",
+    "texture": "fe6c2b94-7a9b-4ba5-83b2-c10beae7323f",
+    "atlas": "",
+    "rect": [
+      4,
+      8,
+      23,
+      28
+    ],
+    "offset": [
+      -0.5,
+      -4
+    ],
+    "originalSize": [
+      32,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

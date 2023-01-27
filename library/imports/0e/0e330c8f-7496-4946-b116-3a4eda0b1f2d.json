@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "knight_f_idle_anim_f0",
+    "texture": "6f4d6f4a-3881-4bb5-8ab9-6d3dcc045138",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      15,
+      20
+    ],
+    "offset": [
+      -0.5,
+      -4
+    ],
+    "originalSize": [
+      16,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

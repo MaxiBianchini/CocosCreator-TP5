@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_zombie_idle_anim_f1",
+    "texture": "5f4840d7-40ce-4302-9c50-4076acc43864",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      18,
+      27
+    ],
+    "offset": [
+      0,
+      -3.5
+    ],
+    "originalSize": [
+      32,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

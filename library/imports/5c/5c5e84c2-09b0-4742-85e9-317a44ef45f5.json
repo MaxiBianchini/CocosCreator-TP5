@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "knight_f_run_anim_f2",
+    "texture": "936559b2-d67d-4f6c-991c-8f9bfdc35626",
+    "atlas": "",
+    "rect": [
+      0,
+      6,
+      15,
+      21
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      16,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

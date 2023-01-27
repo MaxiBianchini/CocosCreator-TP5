@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "09d104f2-22ef-4051-b346-6915bb018aba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 34,
+  "platformSettings": {},
+  "subMetas": {
+    "big_zombie_run_anim_f1": {
+      "ver": "1.0.4",
+      "uuid": "c900723f-3a29-44e5-acd0-5dedc4057cfe",
+      "rawTextureUuid": "09d104f2-22ef-4051-b346-6915bb018aba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1.5,
+      "trimX": 6,
+      "trimY": 1,
+      "width": 20,
+      "height": 29,
+      "rawWidth": 32,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

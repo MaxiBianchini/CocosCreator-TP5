@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemigo 2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bffeca1d-61b4-48db-ba35-bd1f50ea35da"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c900723f-3a29-44e5-acd0-5dedc4057cfe"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "7766b207-c83a-4b6b-9ff4-3e6904d292f2"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "fde0cb6e-c312-48a6-bead-661d5e71d2bd"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "bffeca1d-61b4-48db-ba35-bd1f50ea35da"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

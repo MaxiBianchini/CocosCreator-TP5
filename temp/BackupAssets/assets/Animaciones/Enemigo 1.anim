@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemigo 1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.31666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6fbfdfd9-6cc9-4b3e-af72-8fb4143e451d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d3e6741b-1fe6-422e-9a9f-9359c200b6b9"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "55bcfeb1-62f2-4b9b-bdab-272e386e6213"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "6fbfdfd9-6cc9-4b3e-af72-8fb4143e451d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

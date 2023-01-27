@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_zombie_run_anim_f0",
+    "texture": "f8fdf45f-8eb3-419e-ac85-21c71a33c0ef",
+    "atlas": "",
+    "rect": [
+      7,
+      8,
+      18,
+      26
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      32,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

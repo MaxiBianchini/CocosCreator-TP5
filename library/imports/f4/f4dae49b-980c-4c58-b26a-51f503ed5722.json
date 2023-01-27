@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_demon_idle_anim_f1",
+    "texture": "c0191978-49e8-4d56-ad4a-50a773c6475f",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      23,
+      31
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      32,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chest_empty_open_anim_f0",
+    "texture": "d364ab70-9a85-41df-9f70-093508f7644d",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      16,
+      14
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

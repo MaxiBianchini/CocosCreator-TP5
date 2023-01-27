@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "knight_f_hit_anim_f0",
+    "texture": "010fb977-82dd-48d5-b458-17678caf49d9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      14,
+      23
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      16,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
